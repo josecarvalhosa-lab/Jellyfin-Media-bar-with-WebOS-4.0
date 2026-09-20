@@ -791,7 +791,7 @@
     }
 
     window.addEventListener('hashchange', function () {
-        if (!isHomePage()) {
+        if (!isHome()) {
             window.__lgB8HomeFocusScheduled = false;
         }
 
