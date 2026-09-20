@@ -126,4 +126,4 @@ The **Play** button intentionally opens the item's details page internally and t
 
 ## License
 
-No license has been added yet. Add one before encouraging broad redistribution if you want to define reuse/modification terms.
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
